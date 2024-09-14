@@ -44,24 +44,24 @@ Example: `<a href="https://example.com" title="This is Example">Hover over me! �
 
 --------------------------
 
-## Multimedia Elements
+# Multimedia Elements
 
-### `<img>` - Images 📸
+## `<img>` - Images 📸
 The `<img>` tag is used to embed images on your webpage. 🖼️
 
-#### `src` - Source 🔗
+### `src` - Source 🔗
 The `src` attribute specifies the URL of the image.  
 Example: `<img src="https://example.com/image.jpg" alt="Description of image">`
 
-#### `alt` - Alternative Text 📝
+### `alt` - Alternative Text 📝
 The `alt` attribute provides alternative text for the image if it cannot be displayed.  
 Example: `<img src="https://example.com/image.jpg" alt="A beautiful sunset">`
 
-#### `height` - Height 📏
+### `height` - Height 📏
 The `height` attribute sets the height of the image.  
 Example: `<img src="https://example.com/image.jpg" alt="Description" height="200">`
 
-#### `width` - Width 📐
+### `width` - Width 📐
 The `width` attribute sets the width of the image.  
 Example: `<img src="https://example.com/image.jpg" alt="Description" width="300">`
 
