@@ -1,5 +1,9 @@
 # My html documentation :3
 
+[Go to HTML Basics](#html-basics)
+
+# html-basics
+
 ## `<h1>` - Header 1
 The `<h1>` tag defines the largest heading. 🖼️  
 Example: `<h1>Hello World!</h1>`
