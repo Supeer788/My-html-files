@@ -1,18 +1,9 @@
 # My html documentation :3
-
+---------------------------------------------------
 [Go to HTML Basics](#html-basics)
+---------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
+## html-basics
 
 ## `<h1>` - Header 1
 The `<h1>` tag defines the largest heading. 🖼️  
@@ -49,6 +40,3 @@ Example: `<a href="https://example.com" target="_blank">Open in new tab 🖱️�
 ### `title` - Link Tooltip 📝
 The `title` attribute shows a tooltip when you hover over the link. 🖱️👀  
 Example: `<a href="https://example.com" title="This is Example">Hover over me! 🤩</a>`
-
-
-# html-basics
